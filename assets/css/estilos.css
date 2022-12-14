@@ -11,20 +11,11 @@ body {
   background-position: left;
 }
 
-/* Mis trabajos */
-
-#Mis-trabajos .image-top {
-  height: 250px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-}
-
 /* Contacto */
 
 #Contacto form label {
   font-weight: 700;
-  color: #373a3c;
+  color: #14171a;
 }
 
 @media (max-width: 768px) {
@@ -37,3 +28,4 @@ body {
   }
 
 }
+
