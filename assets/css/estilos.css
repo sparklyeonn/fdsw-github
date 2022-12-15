@@ -11,10 +11,6 @@ body {
   background-position: left;
 }
 
-img-fluid {
-  height: fit-content;
-}
-
 /* Contacto */
 
 #Contacto form label {
